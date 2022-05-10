@@ -12,6 +12,12 @@ const themes = {
     text_color: "434d58",
     bg_color: "fffefe",
   },
+  rubro_negro: {
+    title_color: "fff",
+    icon_color: "ff0000",
+    text_color: "c80000",
+    bg_color: "151515",
+  },
   dark: {
     title_color: "fff",
     icon_color: "79ff97",
